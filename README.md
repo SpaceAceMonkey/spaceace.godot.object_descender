@@ -6,7 +6,7 @@ This code was written using [Godot](https://godotengine.org/) 3.3.2.stable, and 
 
 ## What it does
 
-This code searches recursively through a Godot Dictionary to find the key you're looking for. No matter how complex your Dictionary is, or what kinds of keys and values it contains, the object descender will find it and retrieve its value for you.
+This code searches recursively through a Godot Dictionary to find the key you're looking for. No matter how complex your Dictionary is, or what kinds of keys and values it contains, the object descender will find it and retrieve its value for you as long as you know the path to the key.
 
 This is similar to my [object descender for NodeJS](https://github.com/SpaceAceMonkey/object-descender).
 
